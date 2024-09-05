@@ -13,8 +13,3 @@ To run the scraper execute:
 python3 main.py
 ```
 
-To clean up the output folder run:
-
-```shell
-rm -rv out/*.json
-```
