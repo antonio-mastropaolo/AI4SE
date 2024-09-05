@@ -10,8 +10,8 @@ load_dotenv()
 
 GITHUB_API = 'api.github.com'
 ISSUE_ENDPOINT = '/repos/lobehub/lobe-chat/issues'
-TOKEN = ""
-JSON_OUT_DIR = "...."
+TOKEN = "" ##Put here your token GitHub
+JSON_OUT_DIR = "...." ##Put here the folder where you want to save the results.
 RATE_LIMIT_HR = 5000
 
 
